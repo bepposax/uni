@@ -4,3 +4,5 @@
 * Anno 3
   * [Programmazione Avanzata](https://github.com/bepposax/Programmazione-Avanzata)
   * [Programmazione Distribuita](https://github.com/bepposax/Programmazione-Distribuita)
+  * [Elementi di Teoria della Computazione](https://github.com/bepposax/ETC)
+
